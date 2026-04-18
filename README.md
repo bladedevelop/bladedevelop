@@ -31,8 +31,8 @@
   <tr>
     <td width="35%" valign="top" align="center">
 
-<!-- FOTO DE PERFIL -->
-<img src="./profile.jpg" width="220" style="border-radius:50%" alt="Foto de perfil BladeKing"/>
+<!-- FOTO DE PERFIL (placeholder — se reemplaza cuando tengas la foto) -->
+<img src="https://ui-avatars.com/api/?name=Blade+King&size=240&background=6366f1&color=fff&rounded=true&bold=true&font-size=0.4" width="220" alt="Foto de perfil BladeKing"/>
 
 <br><br>
 

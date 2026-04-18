@@ -7,18 +7,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=280&section=header&text=BladeKing&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Forjando%20c%C3%B3digo%20con%20visi%C3%B3n%20de%20rey%20%F0%9F%91%91&descSize=18&descAlignY=58&descColor=c7d2fe&stroke=6366f1" alt="Banner BladeKing"/>
 
-<!-- ═══════════════ REDES SOCIALES (HEADER) ═══════════════ -->
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bladeking.dev@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bladeking-dev/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bladedevelop)&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manuel.lopez.400020)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuelloopzz/)
-
-</div>
-
 <!-- ═══════════════ TEXTO TIPEANDO ═══════════════ -->
 
 <div align="center">
@@ -36,14 +24,61 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                       SOBRE MÍ                          -->
+<!--        PERFIL (FOTO + CONTACTO) + SOBRE MÍ              -->
 <!-- ═══════════════════════════════════════════════════════ -->
+
+<table>
+  <tr>
+    <td width="35%" valign="top" align="center">
+
+<!-- FOTO DE PERFIL (placeholder — se reemplaza cuando tengas la foto) -->
+<img src="https://ui-avatars.com/api/?name=Blade+King&size=240&background=6366f1&color=fff&rounded=true&bold=true&font-size=0.4" width="220" alt="Foto de perfil BladeKing"/>
+
+<br><br>
+
+### 📫 Conecta Conmigo
+
+<a href="mailto:bladeking.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<br>
+<a href="https://www.linkedin.com/in/bladeking-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<br>
+<a href="https://github.com/bladedevelop">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br>
+<a href="https://www.facebook.com/manuel.lopez.400020">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<br>
+<a href="https://www.instagram.com/manuelloopzz/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br><br>
+
+<sub>⏱️ <i>Respondo en menos de 24 horas</i></sub>
+
+</td>
+<td valign="top">
 
 ## 🧑‍💻 Sobre mí
 
-Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora continua**. Disfruto convertir ideas en soluciones reales mediante código limpio, eficiente y con propósito. Creo que programar no es solo escribir líneas, sino **resolver problemas y construir experiencias** que aporten valor a las personas.
+Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora continua**. Disfruto convertir ideas en soluciones reales mediante código limpio, eficiente y con propósito.
+
+Creo que programar no es solo escribir líneas, sino **resolver problemas y construir experiencias** que aporten valor a las personas.
 
 > *"El código es mi espada, y cada proyecto, una nueva conquista."* ⚔️
+
+**¿Tienes una idea, un proyecto o simplemente quieres saludar?**
+¡Estoy abierto a colaborar y conversar! 🤝
+
+</td>
+  </tr>
+</table>
 
 <br>
 
@@ -196,49 +231,6 @@ Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bladedevelop&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&area_color=6366f1&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" width="95%" alt="Gráfico de actividad"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     CONECTA CONMIGO                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📫 Conecta Conmigo
-
-<p align="center">
-  <i>¿Tienes una idea, un proyecto o simplemente quieres saludar?</i><br>
-  <b>¡Estoy abierto a colaborar y conversar! 🤝</b>
-</p>
-
-<p align="center">
-  <a href="mailto:bladeking.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bladeking-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/bladedevelop">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.facebook.com/manuel.lopez.400020">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/manuelloopzz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:bladeking.dev@gmail.com">bladeking.dev@gmail.com</a><br>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bladeking-dev/">linkedin.com/in/bladeking-dev</a><br>
-  🐙 <b>GitHub:</b> <a href="https://github.com/bladedevelop">github.com/bladedevelop</a><br>
-  📘 <b>Facebook:</b> <a href="https://www.facebook.com/manuel.lopez.400020">facebook.com/manuel.lopez.400020</a><br>
-  📸 <b>Instagram:</b> <a href="https://www.instagram.com/manuelloopzz/">@manuelloopzz</a>
-</p>
-
-<p align="center">
-  ⏱️ <i>Suelo responder en menos de 24 horas.</i>
 </p>
 
 <br>

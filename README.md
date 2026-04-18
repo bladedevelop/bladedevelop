@@ -3,23 +3,22 @@
      ║                     BladeKing 👑                     ║
      ╚══════════════════════════════════════════════════════╝ -->
 
-<h1 align="center">⚔️ ¡Hola! Soy BladeKing 👑</h1>
+<!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=280&section=header&text=BladeKing&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Forjando%20c%C3%B3digo%20con%20visi%C3%B3n%20de%20rey%20%F0%9F%91%91&descSize=18&descAlignY=58&descColor=c7d2fe&stroke=6366f1" alt="Banner BladeKing"/>
+
+<!-- ═══════════════ TEXTO TIPEANDO ═══════════════ -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%94%EF%B8%8F+Desarrollador+apasionado+por+el+c%C3%B3digo;%F0%9F%9A%80+Construyendo+experiencias+digitales;%F0%9F%8E%A8+Dise%C3%B1ando+interfaces+modernas+y+limpias;%F0%9F%94%A5+Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG"/>
+  </a>
+</div>
+
+<!-- ═══════════════ CONTADOR DE VISITAS ═══════════════ -->
 
 <p align="center">
-  <b>🚀 Desarrollador apasionado por la tecnología y la creatividad 💡</b><br>
-  <i>Forjando código con la precisión de una espada y la visión de un rey.</i>
-</p>
-
-<p align="center">
-  💻 Construyo · 🎯 Aprendo · 🔥 Comparto
-</p>
-
-<p align="center">
-  ✨ Bienvenido a mi rincón en GitHub ✨
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bladedevelop&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=bladedevelop&style=for-the-badge&color=6366f1&label=VISITAS+AL+PERFIL" alt="Visitas al perfil"/>
 </p>
 
 <br>
@@ -181,6 +180,12 @@ Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora
   <img src="https://github-profile-trophy.vercel.app/?username=bladedevelop&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos"/>
 </p>
 
+<!-- ═══════════════ GRÁFICO DE ACTIVIDAD ═══════════════ -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bladedevelop&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&area_color=6366f1&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" width="95%" alt="Gráfico de actividad"/>
+</p>
+
 <br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -229,3 +234,7 @@ Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora
 <p align="center">
   <sub>Hecho con ❤️ y mucho ☕ por <b>BladeKing</b></sub>
 </p>
+
+<!-- ═══════════════ FOOTER ANIMADO (OLA) ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" alt="Footer onda animada"/>

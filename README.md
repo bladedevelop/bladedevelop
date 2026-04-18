@@ -3,22 +3,30 @@
      ║                     BladeKing 👑                     ║
      ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1e1b4b,50:8b5cf6,100:a78bfa&height=280&section=header&text=BladeKing&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9C%A8%20Navegando%20el%20cosmos%20del%20c%C3%B3digo%20%F0%9F%8C%8C&descSize=18&descAlignY=58&descColor=e0e7ff&stroke=a78bfa&strokeWidth=2" alt="Banner BladeKing"/>
-
-<!-- ═══════════════ TEXTO TIPEANDO ═══════════════ -->
+<!-- ═══════════════ GIF CÓSMICO INTRO ═══════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="120" alt="Planeta cósmico"/>
+</div>
+
+<!-- ═══════════════ BANNER 3D CILÍNDRICO ═══════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a23,25:1e1b4b,50:7c3aed,75:a78bfa,100:0a0a23&height=230&section=header&text=B%20L%20A%20D%20E%20K%20I%20N%20G&fontSize=58&fontColor=ffffff&fontAlignY=55&desc=%E2%9C%A7%20N%20A%20V%20E%20G%20A%20N%20D%20O%20%20%20E%20L%20%20%20C%20%C3%93%20D%20I%20G%20O%20%20%20C%20%C3%93%20S%20M%20I%20C%20O%20%E2%9C%A7&descSize=14&descAlignY=80&descColor=e0e7ff&fontColor=ffffff" alt="Banner BladeKing"/>
+
+<!-- ═══════════════ GIF ESPACIAL + TEXTO TIPEANDO ═══════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Cosmic wave divider"/>
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Desarrollador+explorando+el+universo+del+c%C3%B3digo;%F0%9F%9A%80+Construyendo+experiencias+entre+estrellas;%F0%9F%8C%8C+Dise%C3%B1ando+interfaces+como+constelaciones;%F0%9F%92%AB+Aprendiendo+algo+nuevo+cada+%C3%B3rbita" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%E2%9C%A8+EXPLORANDO+EL+UNIVERSO+DEL+C%C3%93DIGO;%F0%9F%9A%80+CONSTRUYENDO+ENTRE+ESTRELLAS;%F0%9F%8C%8C+DISE%C3%91ANDO+CONSTELACIONES+DIGITALES;%F0%9F%92%AB+APRENDIENDO+EN+CADA+%C3%93RBITA" alt="Typing SVG"/>
   </a>
 </div>
 
 <!-- ═══════════════ CONTADOR DE VISITAS ═══════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bladedevelop&style=for-the-badge&color=8b5cf6&label=VIAJEROS+EN+MI+%C3%93RBITA" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=bladedevelop&style=for-the-badge&color=7c3aed&label=%E2%9C%A7+VIAJEROS+EN+MI+%C3%93RBITA+%E2%9C%A7" alt="Visitas al perfil"/>
 </p>
 
 <br>
@@ -36,7 +44,7 @@
 
 <br><br>
 
-### 📫 Conecta Conmigo
+### ✦ Transmisión Intergaláctica ✦
 
 <a href="mailto:bladeking.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -65,7 +73,7 @@
 </td>
 <td valign="top">
 
-## 🌠 Sobre mí
+## ✧ Identidad del Explorador ✧
 
 Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora continua**. Disfruto convertir ideas en soluciones reales mediante código limpio, eficiente y con propósito.
 
@@ -82,11 +90,17 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 
 <br>
 
+<!-- ═══════════════ DIVISOR CÓSMICO ═══════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%" alt="Divisor cósmico"/>
+</div>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--             METAS Y PERFIL PROFESIONAL                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🎯 Metas & Perfil Profesional
+<h2 align="center">⟢ ⊹ ✧ METAS & PERFIL PROFESIONAL ✧ ⊹ ⟣</h2>
 
 ### 💡 Lo que me apasiona
 - 🌐 El **desarrollo web** moderno (frontend interactivo + backend robusto)
@@ -110,63 +124,61 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 
 <br>
 
+<!-- ═══════════════ DIVISOR CÓSMICO ═══════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%" alt="Divisor cósmico"/>
+</div>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                 TECNOLOGÍAS Y HERRAMIENTAS              -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🛠️ Tecnologías & Herramientas
+<h2 align="center">⟢ ⊹ ✧ ARSENAL GALÁCTICO ✧ ⊹ ⟣</h2>
 
 <p align="center">
-  <i>Stack con el que forjo proyectos ⚒️</i>
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### 🧰 Herramientas & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <i>⭒ Las herramientas con las que navego el cosmos del código ⭒</i>
 </p>
 
 <br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌠 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark&perline=4" alt="Frontend stack"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛰️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,mysql,postgres,mongodb&theme=dark&perline=4" alt="Backend stack"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛸 DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,linux&theme=dark&perline=4" alt="DevOps stack"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════ DIVISOR CÓSMICO ═══════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%" alt="Divisor cósmico"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                   PROYECTOS DESTACADOS                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🚀 Proyectos Destacados
+<h2 align="center">⟢ ⊹ ✧ NAVES EN CONSTRUCCIÓN ✧ ⊹ ⟣</h2>
 
 <p align="center">
-  <i>Algunas creaciones forjadas en mi taller de código 🛠️</i>
+  <i>⭒ Proyectos forjados entre estrellas 🛸 ⭒</i>
 </p>
 
 ### 🌐 [Portafolio Personal](https://github.com/bladedevelop/portfolio)
@@ -208,11 +220,22 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 
 <br>
 
+<!-- ═══════════════ DIVISOR CÓSMICO ═══════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%" alt="Divisor cósmico"/>
+</div>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  ESTADÍSTICAS DE GITHUB                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 📊 Estadísticas de GitHub
+<h2 align="center">⟢ ⊹ ✧ BITÁCORA ESTELAR ✧ ⊹ ⟣</h2>
+
+<p align="center">
+  <i>⭒ Registro de viajes por el cosmos del código 📡 ⭒</i>
+</p>
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bladedevelop&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
@@ -239,14 +262,18 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 <!--                          FOOTER                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da1-80f7-faadbf0b0c9e.gif" width="500" alt="Cosmic line"/>
+</div>
+
 <p align="center">
   <b>⚔️ "Cada línea de código es una estrella más en mi galaxia." 🌠👑</b>
 </p>
 
 <p align="center">
-  <sub>Hecho con ❤️ y mucho ☕ por <b>BladeKing</b></sub>
+  <sub>✦ Forjado con ❤️ y polvo de estrellas por <b>BladeKing</b> ✦</sub>
 </p>
 
-<!-- ═══════════════ FOOTER ANIMADO (OLA) ═══════════════ -->
+<!-- ═══════════════ FOOTER ANIMADO (NEBULOSA) ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:8b5cf6,100:a78bfa&height=100&section=footer" width="100%" alt="Footer onda animada"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a23,25:1e1b4b,50:7c3aed,75:a78bfa,100:0a0a23&height=120&section=footer&text=%E2%9C%A7%20%E2%9C%A7%20%E2%9C%A7&fontSize=40&fontColor=ffffff&fontAlignY=75" width="100%" alt="Footer nebulosa"/>

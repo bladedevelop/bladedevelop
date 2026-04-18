@@ -7,6 +7,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=280&section=header&text=BladeKing&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Forjando%20c%C3%B3digo%20con%20visi%C3%B3n%20de%20rey%20%F0%9F%91%91&descSize=18&descAlignY=58&descColor=c7d2fe&stroke=6366f1" alt="Banner BladeKing"/>
 
+<!-- ═══════════════ REDES SOCIALES (HEADER) ═══════════════ -->
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bladeking.dev@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bladeking-dev/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bladedevelop)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manuel.lopez.400020)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuelloopzz/)
+
+</div>
+
 <!-- ═══════════════ TEXTO TIPEANDO ═══════════════ -->
 
 <div align="center">

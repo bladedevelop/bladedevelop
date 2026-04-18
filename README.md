@@ -5,20 +5,20 @@
 
 <!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=280&section=header&text=BladeKing&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Forjando%20c%C3%B3digo%20con%20visi%C3%B3n%20de%20rey%20%F0%9F%91%91&descSize=18&descAlignY=58&descColor=c7d2fe&stroke=6366f1" alt="Banner BladeKing"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1e1b4b,50:8b5cf6,100:a78bfa&height=280&section=header&text=BladeKing&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9C%A8%20Navegando%20el%20cosmos%20del%20c%C3%B3digo%20%F0%9F%8C%8C&descSize=18&descAlignY=58&descColor=e0e7ff&stroke=a78bfa&strokeWidth=2" alt="Banner BladeKing"/>
 
 <!-- ═══════════════ TEXTO TIPEANDO ═══════════════ -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%94%EF%B8%8F+Desarrollador+apasionado+por+el+c%C3%B3digo;%F0%9F%9A%80+Construyendo+experiencias+digitales;%F0%9F%8E%A8+Dise%C3%B1ando+interfaces+modernas+y+limpias;%F0%9F%94%A5+Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Desarrollador+explorando+el+universo+del+c%C3%B3digo;%F0%9F%9A%80+Construyendo+experiencias+entre+estrellas;%F0%9F%8C%8C+Dise%C3%B1ando+interfaces+como+constelaciones;%F0%9F%92%AB+Aprendiendo+algo+nuevo+cada+%C3%B3rbita" alt="Typing SVG"/>
   </a>
 </div>
 
 <!-- ═══════════════ CONTADOR DE VISITAS ═══════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bladedevelop&style=for-the-badge&color=6366f1&label=VISITAS+AL+PERFIL" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=bladedevelop&style=for-the-badge&color=8b5cf6&label=VIAJEROS+EN+MI+%C3%93RBITA" alt="Visitas al perfil"/>
 </p>
 
 <br>
@@ -32,7 +32,7 @@
     <td width="35%" valign="top" align="center">
 
 <!-- FOTO DE PERFIL (placeholder — se reemplaza cuando tengas la foto) -->
-<img src="https://ui-avatars.com/api/?name=Blade+King&size=240&background=6366f1&color=fff&rounded=true&bold=true&font-size=0.4" width="220" alt="Foto de perfil BladeKing"/>
+<img src="https://ui-avatars.com/api/?name=Blade+King&size=240&background=8b5cf6&color=e0e7ff&rounded=true&bold=true&font-size=0.4" width="220" alt="Foto de perfil BladeKing"/>
 
 <br><br>
 
@@ -65,16 +65,16 @@
 </td>
 <td valign="top">
 
-## 🧑‍💻 Sobre mí
+## 🌠 Sobre mí
 
 Soy un desarrollador apasionado por la **tecnología, la creatividad y la mejora continua**. Disfruto convertir ideas en soluciones reales mediante código limpio, eficiente y con propósito.
 
-Creo que programar no es solo escribir líneas, sino **resolver problemas y construir experiencias** que aporten valor a las personas.
+Creo que programar no es solo escribir líneas, sino **resolver problemas y construir experiencias** que aporten valor a las personas — cada proyecto es una nueva constelación por descubrir. 🌌
 
-> *"El código es mi espada, y cada proyecto, una nueva conquista."* ⚔️
+> *"El código es mi espada, y cada proyecto, una nueva galaxia por conquistar."* ⚔️✨
 
 **¿Tienes una idea, un proyecto o simplemente quieres saludar?**
-¡Estoy abierto a colaborar y conversar! 🤝
+¡Estoy abierto a colaborar y conversar! 🚀
 
 </td>
   </tr>
@@ -215,22 +215,22 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bladedevelop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bladedevelop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bladedevelop&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bladedevelop&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bladedevelop&theme=tokyonight&hide_border=true" alt="Racha de commits"/>
+  <img src="https://streak-stats.demolab.com?user=bladedevelop&theme=midnight-purple&hide_border=true" alt="Racha de commits"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bladedevelop&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bladedevelop&theme=midnight-purple&no-frame=true&row=1&column=7" alt="Trofeos"/>
 </p>
 
 <!-- ═══════════════ GRÁFICO DE ACTIVIDAD ═══════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bladedevelop&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&area_color=6366f1&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" width="95%" alt="Gráfico de actividad"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bladedevelop&bg_color=0a0a23&color=a78bfa&line=8b5cf6&point=e0e7ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=%F0%9F%8C%8C%20%C3%93rbita%20de%20Contribuciones" width="95%" alt="Gráfico de actividad"/>
 </p>
 
 <br>
@@ -240,7 +240,7 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <b>⚔️ "Cada línea de código es un paso más hacia la corona." 👑</b>
+  <b>⚔️ "Cada línea de código es una estrella más en mi galaxia." 🌠👑</b>
 </p>
 
 <p align="center">
@@ -249,4 +249,4 @@ Creo que programar no es solo escribir líneas, sino **resolver problemas y cons
 
 <!-- ═══════════════ FOOTER ANIMADO (OLA) ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" alt="Footer onda animada"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:8b5cf6,100:a78bfa&height=100&section=footer" width="100%" alt="Footer onda animada"/>
